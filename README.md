@@ -1,4 +1,4 @@
-# Evoxnet Studio — screenshot-matched website
+<!-- # Evoxnet Studio — screenshot-matched website
 
 Static, responsive landing page built with **HTML**, **JavaScript**, a precompiled **Tailwind CSS** stylesheet, and custom CSS. Uses the supplied reference visual for design direction, with a bundled boutique storefront image. No database, build process, or server-side contact form required.
 
@@ -54,4 +54,4 @@ Only `assets/tailwind.css` is regenerated; leave `assets/styles.css` in place.
 ## Accessibility & responsiveness
 
 The website includes semantic landmarks, alt text, keyboard-accessible navigation, visible focus states, native FAQ details, responsive layouts and reduced-motion preferences. Test with your actual content, device and browser before release.
-# localwebstudio
+# localwebstudio -->

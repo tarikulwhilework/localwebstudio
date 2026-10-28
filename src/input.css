@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source "../index.html";
+@theme { --color-ink: #0a1c51; --color-primary: #0661e9; }
+/* The custom matching design lives in assets/styles.css.
+   `assets/tailwind.css` is prebuilt, so GitHub Pages needs no build step. */
