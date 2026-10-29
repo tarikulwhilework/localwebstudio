@@ -62,7 +62,7 @@
     }
     name.removeAttribute('aria-invalid'); message.removeAttribute('aria-invalid');
     if (error) error.textContent = '';
-    const content = ['Hello Evoxnet Studio, I would like a website quote.','',
+    const content = ['Hello BizzWeb.tech, I would like a website quote.','',
       `Name: ${nameValue}`,`Business: ${business.value.trim() || 'Not provided'}`,
       `Service: ${kind.value}`,`Budget: ${budget.value}`,`Project details: ${messageValue}`].join('\n');
     window.location.assign('https://wa.me/916296771414?text=' + encodeURIComponent(content));
